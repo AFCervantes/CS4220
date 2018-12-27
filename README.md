@@ -3,7 +3,7 @@
 #### Application Development with Node.js & Vue.js
 
 
-Spring 2018 <br/>
+Spring 2019 <br/>
 Computer Science Department <br/>
 California State University, Los Angeles
 
