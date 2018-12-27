@@ -74,6 +74,9 @@ TBA
  - Installing Node.js / Setup development environment
  - Intro to Javascript
 
+
+<hr/>
+
 ### Online Resources
 
 **Javascript Text Editors / IDE**
