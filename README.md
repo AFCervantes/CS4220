@@ -63,7 +63,7 @@ All parties involved will receive a grade of F for the assignment.  Additionally
 <hr/>
 
 **Slack** <br/>
-TBA
+[Register Here](http://albertcervantes.com/cs4220/slack)
 
 <hr/>
 
