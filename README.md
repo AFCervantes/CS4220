@@ -15,7 +15,7 @@ Location: King Hall - Lecture Hall 1
 
 **Office Hours** <br/>
 Sunday <br/>
-Time: 3:30pm - 4:30pm <br/>
+Time: 3:30pm - 4:30pm (Schedule in advance)<br/>
 Location: King Hall - Lecture Hall 1
 
 
