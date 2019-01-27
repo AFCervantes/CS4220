@@ -11,12 +11,12 @@ California State University, Los Angeles
 **Lectures** <br/>
 Sunday <br/>
 Time: 1:30pm - 3:30pm <br/>
-Location: King Hall - Lecture Hall 2
+Location: King Hall - Lecture Hall 1
 
 **Office Hours** <br/>
 Sunday <br/>
 Time: 3:30pm - 4:30pm <br/>
-Location: King Hall - Lecture Hall 2
+Location: King Hall - Lecture Hall 1
 
 
 **Instructors:** <br/>
