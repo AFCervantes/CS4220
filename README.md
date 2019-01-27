@@ -39,7 +39,7 @@ Eloquent Javascript - required
 http://eloquentjavascript.net/
 
 **Grading Policy:** <br/>
-Homework/Exercises/Lab 50%, Midterm 25%, Final 25%
+Homework/Exercises/Lab/Quiz 50%, Midterm 25%, Final 25%
 
 A -- 90 - 100 <br/>
 B -- 80 - 89 <br/>
@@ -52,9 +52,9 @@ F -- below 40 <br/>
 Please submit all assignments via CSNS - http://csns.calstatela.edu/
 
 **Late Policy** <br/>
-Homework/Lab and Project assignments may be submitted up to 24 hours late with a 15 point late penalty deduction.  After the 24 hour period, no additional submissions will be accepted and a grade of 0 will be given for the assignment.
+Homework/Lab and/or Project assignments may be submitted up to 24 hours late with a 15 point late penalty deduction.  After the 24 hour period, no additional submissions will be accepted and a grade of 0 will be given for the assignment.
 
-**NO** late Midterm or Final Presentations and Code will be accepted.  If a student is not in attendance during the Midterm or Final they will receive a 0 on that exam.
+**NO** late Midterm or Finals. No late Quizzes.  If a student is not in attendance during the Midterm or Final or Quiz they will receive a 0 on that exam.
 
 **Academic Integrity** <br/>
 Cheating will not be tolerated. Cheating on any assignment or project will be taken seriously.
